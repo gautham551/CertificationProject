@@ -1,0 +1,64 @@
+2019-11-06 13:36:13,721  INFO [main] BaseClass:46 - *****************Test Case Started***********************
+ 2019-11-06 13:36:48,910  INFO [main] BookReturnCruiseTicket:28 - Step 1 - Clicked on Cruise Link
+ 2019-11-06 13:36:51,069  INFO [main] BookReturnCruiseTicket:30 - Step 2 - Click on Reservations of cruise Img
+ 2019-11-06 13:36:52,420  INFO [main] BookReturnCruiseTicket:32 - Step 3 - Assert if opened pageTitle is correct
+ 2019-11-06 13:36:52,446  INFO [main] BookReturnCruiseTicket:39 - Find a Flight: Mercury Tours: page is dispayed
+ 2019-11-06 13:36:52,446  INFO [main] BookReturnCruiseTicket:44 - Step 4-Check of the RoundTrip Radio button is selected
+ 2019-11-06 13:36:52,496  INFO [main] BookReturnCruiseTicket:50 - Step3-Select the departing place as London
+ 2019-11-06 13:36:52,798  INFO [main] BookReturnCruiseTicket:54 - Step 4-Select Business Class
+ 2019-11-06 13:36:52,892  INFO [main] BookReturnCruiseTicket:57 - Step 5-Select Airline
+ 2019-11-06 13:36:53,076  INFO [main] BookReturnCruiseTicket:60 - Step 6-Click on Continue in Find a Flight page
+ 2019-11-06 13:36:54,708  INFO [main] BookReturnCruiseTicket:63 - Step 7-Click on Continue in Select a Flight page
+ 2019-11-06 13:36:54,721  INFO [main] BookReturnCruiseTicket:68 - Step 8-Select the flight
+ 2019-11-06 13:36:57,782  INFO [main] BookReturnCruiseTicket:71 - Step 9-Assert Book a Flight Title
+ 2019-11-06 13:36:57,796  INFO [main] BookReturnCruiseTicket:76 - Book a Flight: Mercury Toursis matching
+ 2019-11-06 13:36:57,796  INFO [main] BookReturnCruiseTicket:77 - Step 10-Enter First Name
+ 2019-11-06 13:36:58,021  INFO [main] BookReturnCruiseTicket:80 - Step 11-Enter Last Name
+ 2019-11-06 13:36:58,184  INFO [main] BookReturnCruiseTicket:83 - Step 12-Enter Card Number
+ 2019-11-06 13:36:58,538  INFO [main] BookReturnCruiseTicket:86 - Step 13-Click on Secure Purchase
+ 2019-11-06 13:37:00,043  INFO [main] BookReturnCruiseTicket:89 - Step 14Confirm if ticket is booked
+ 2019-11-06 13:37:00,092  INFO [main] BookReturnCruiseTicket:94 - Your itinerary has been booked!
+ 2019-11-06 13:37:00,422  INFO [main] BaseClass:75 - *****************Test Case Executed***********************
+ 2019-11-06 13:37:03,747  INFO [main] BaseClass:46 - *****************Test Case Started***********************
+ 2019-11-06 13:37:14,545  INFO [main] BookReturnFlightTicketTest:26 - Step 1 - Assert if opened pageTitle is correct
+ 2019-11-06 13:37:14,559  INFO [main] BookReturnFlightTicketTest:33 - Find a Flight: Mercury Tours: page is dispayed
+ 2019-11-06 13:37:14,559  INFO [main] BookReturnFlightTicketTest:38 - Step 2-Check of the RoundTrip Radio button is selected
+ 2019-11-06 13:37:14,605  INFO [main] BookReturnFlightTicketTest:44 - Step3-Select the departing place as London
+ 2019-11-06 13:37:14,856  INFO [main] BookReturnFlightTicketTest:48 - Step 4-Select Business Class
+ 2019-11-06 13:37:14,957  INFO [main] BookReturnFlightTicketTest:51 - Step 5-Select Airline
+ 2019-11-06 13:37:15,165  INFO [main] BookReturnFlightTicketTest:54 - Step 6-Click on Continue in Find a Flight page
+ 2019-11-06 13:37:16,235  INFO [main] BookReturnFlightTicketTest:57 - Step 7-Click on Continue in Select a Flight page
+ 2019-11-06 13:37:16,244  INFO [main] BookReturnFlightTicketTest:62 - Step 8-Select the flight
+ 2019-11-06 13:37:17,872  INFO [main] BookReturnFlightTicketTest:65 - Step 9-Assert Book a Flight Title
+ 2019-11-06 13:37:17,888  INFO [main] BookReturnFlightTicketTest:70 - Book a Flight: Mercury Toursis matching
+ 2019-11-06 13:37:17,888  INFO [main] BookReturnFlightTicketTest:71 - Step 10-Enter First Name
+ 2019-11-06 13:37:18,101  INFO [main] BookReturnFlightTicketTest:74 - Step 11-Enter Last Name
+ 2019-11-06 13:37:18,250  INFO [main] BookReturnFlightTicketTest:77 - Step 12-Enter Card Number
+ 2019-11-06 13:37:18,525  INFO [main] BookReturnFlightTicketTest:80 - Step 13-Click on Secure Purchase
+ 2019-11-06 13:37:19,917  INFO [main] BookReturnFlightTicketTest:83 - Step 14Confirm if ticket is booked
+ 2019-11-06 13:37:19,967  INFO [main] BookReturnFlightTicketTest:88 - Your itinerary has been booked!
+ 2019-11-06 13:37:20,232  INFO [main] BaseClass:75 - *****************Test Case Executed***********************
+ 2019-11-06 13:37:23,330  INFO [main] BaseClass:46 - *****************Test Case Started***********************
+ 2019-11-06 13:37:41,563 DEBUG [main] ValidateCredentialsTest:16 - Home Page is Displayed
+ 2019-11-06 13:37:41,564  INFO [main] ValidateCredentialsTest:18 - Expected Tile was Find a Flight: Mercury Tours:
+ 2019-11-06 13:37:41,577  INFO [main] ValidateCredentialsTest:22 - Title is matching
+ 2019-11-06 13:37:41,963  INFO [main] BaseClass:75 - *****************Test Case Executed***********************
+ 2019-11-06 13:37:45,084  INFO [main] BaseClass:46 - *****************Test Case Started***********************
+ 2019-11-06 13:38:38,202  INFO [main] RegisterCredentials:25 - Step 1: Register user page is displayed.
+ 2019-11-06 13:38:39,008  INFO [main] RegisterCredentials:31 - Step 2:Contact information is entered successfully
+ 2019-11-06 13:38:39,948  INFO [main] RegisterCredentials:38 - Step 3:Mailing information is entered successfully
+ 2019-11-06 13:38:40,521  INFO [main] RegisterCredentials:43 - Step 4: User Inforation is entered successfully
+ 2019-11-06 13:39:02,715  INFO [main] RegisterCredentials:48 - Registered Successfully
+ 2019-11-06 13:39:02,834  INFO [main] RegisterCredentials:57 - Note: Your user name is Gauth415980.
+ 2019-11-06 13:39:03,276  INFO [main] BaseClass:75 - *****************Test Case Executed***********************
+ 2019-11-06 13:39:03,965 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2019-11-06 13:39:03,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2019-11-06 13:39:03,971 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2019-11-06 13:39:03,973 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2019-11-06 13:39:03,973 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/a238540/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2019-11-06 13:39:04,524 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2019-11-06 13:39:04,525 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2019-11-06 13:39:04,526 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2019-11-06 13:39:04,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2019-11-06 13:39:04,527 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/a238540/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 
