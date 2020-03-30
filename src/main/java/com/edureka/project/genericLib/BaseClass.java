@@ -6,6 +6,7 @@ import java.util.concurrent.TimeUnit;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.AfterClass;
@@ -36,7 +37,10 @@ public class BaseClass {
         if (Browser.equals("firefox")) {
             driver = new FirefoxDriver();
         } else {
-            driver = new ChromeDriver();
+        	ChromeOptions chromeOptions = new ChromeOptions();
+        	 chromeOptions.addArguments("--headless");
+        	 driver = new ChromeDriver(chromeOptions);
+            
         }
 
     }
