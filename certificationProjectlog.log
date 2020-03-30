@@ -1,9 +1,54 @@
-2020-03-30 21:46:53,805  INFO [main] BaseClass:50 - *****************Test Case Started***********************
- 2020-03-30 21:47:01,057  INFO [main] RegisterCredentials:25 - Step 1: Register user page is displayed.
- 2020-03-30 21:47:01,420  INFO [main] RegisterCredentials:31 - Step 2:Contact information is entered successfully
- 2020-03-30 21:47:01,827  INFO [main] RegisterCredentials:38 - Step 3:Mailing information is entered successfully
- 2020-03-30 21:47:02,090  INFO [main] RegisterCredentials:43 - Step 4: User Inforation is entered successfully
- 2020-03-30 21:47:03,549  INFO [main] RegisterCredentials:48 - Registered Successfully
- 2020-03-30 21:47:03,632  INFO [main] RegisterCredentials:57 - Note: Your user name is Gauth270189.
- 2020-03-30 21:47:03,682  INFO [main] BaseClass:79 - *****************Test Case Executed***********************
+2020-03-30 22:23:05,256  INFO [main] BaseClass:65 - *****************Test Case Started***********************
+ 2020-03-30 22:23:11,133  INFO [main] BookReturnCruiseTicket:28 - Step 1 - Clicked on Cruise Link
+ 2020-03-30 22:23:12,027  INFO [main] BookReturnCruiseTicket:30 - Step 2 - Click on Reservations of cruise Img
+ 2020-03-30 22:23:12,675  INFO [main] BookReturnCruiseTicket:32 - Step 3 - Assert if opened pageTitle is correct
+ 2020-03-30 22:23:12,684  INFO [main] BookReturnCruiseTicket:39 - Find a Flight: Mercury Tours: page is dispayed
+ 2020-03-30 22:23:12,685  INFO [main] BookReturnCruiseTicket:44 - Step 4-Check of the RoundTrip Radio button is selected
+ 2020-03-30 22:23:12,717  INFO [main] BookReturnCruiseTicket:50 - Step3-Select the departing place as London
+ 2020-03-30 22:23:12,912  INFO [main] BookReturnCruiseTicket:54 - Step 4-Select Business Class
+ 2020-03-30 22:23:12,980  INFO [main] BookReturnCruiseTicket:57 - Step 5-Select Airline
+ 2020-03-30 22:23:13,122  INFO [main] BookReturnCruiseTicket:60 - Step 6-Click on Continue in Find a Flight page
+ 2020-03-30 22:23:13,782  INFO [main] BookReturnCruiseTicket:63 - Step 7-Click on Continue in Select a Flight page
+ 2020-03-30 22:23:13,791  INFO [main] BookReturnCruiseTicket:68 - Step 8-Select the flight
+ 2020-03-30 22:23:14,895  INFO [main] BookReturnCruiseTicket:71 - Step 9-Assert Book a Flight Title
+ 2020-03-30 22:23:14,905  INFO [main] BookReturnCruiseTicket:76 - Book a Flight: Mercury Toursis matching
+ 2020-03-30 22:23:14,906  INFO [main] BookReturnCruiseTicket:77 - Step 10-Enter First Name
+ 2020-03-30 22:23:14,996  INFO [main] BookReturnCruiseTicket:80 - Step 11-Enter Last Name
+ 2020-03-30 22:23:15,073  INFO [main] BookReturnCruiseTicket:83 - Step 12-Enter Card Number
+ 2020-03-30 22:23:15,182  INFO [main] BookReturnCruiseTicket:86 - Step 13-Click on Secure Purchase
+ 2020-03-30 22:23:16,069  INFO [main] BookReturnCruiseTicket:89 - Step 14Confirm if ticket is booked
+ 2020-03-30 22:23:16,125  INFO [main] BookReturnCruiseTicket:94 - Your itinerary has been booked!
+ 2020-03-30 22:23:16,173  INFO [main] BaseClass:95 - *****************Test Case Executed***********************
+ 2020-03-30 22:23:18,216  INFO [main] BaseClass:65 - *****************Test Case Started***********************
+ 2020-03-30 22:23:23,968  INFO [main] BookReturnFlightTicketTest:26 - Step 1 - Assert if opened pageTitle is correct
+ 2020-03-30 22:23:23,980  INFO [main] BookReturnFlightTicketTest:33 - Find a Flight: Mercury Tours: page is dispayed
+ 2020-03-30 22:23:23,980  INFO [main] BookReturnFlightTicketTest:38 - Step 2-Check of the RoundTrip Radio button is selected
+ 2020-03-30 22:23:24,018  INFO [main] BookReturnFlightTicketTest:44 - Step3-Select the departing place as London
+ 2020-03-30 22:23:24,189  INFO [main] BookReturnFlightTicketTest:48 - Step 4-Select Business Class
+ 2020-03-30 22:23:24,256  INFO [main] BookReturnFlightTicketTest:51 - Step 5-Select Airline
+ 2020-03-30 22:23:24,394  INFO [main] BookReturnFlightTicketTest:54 - Step 6-Click on Continue in Find a Flight page
+ 2020-03-30 22:23:25,055  INFO [main] BookReturnFlightTicketTest:57 - Step 7-Click on Continue in Select a Flight page
+ 2020-03-30 22:23:25,065  INFO [main] BookReturnFlightTicketTest:62 - Step 8-Select the flight
+ 2020-03-30 22:23:26,185  INFO [main] BookReturnFlightTicketTest:65 - Step 9-Assert Book a Flight Title
+ 2020-03-30 22:23:26,196  INFO [main] BookReturnFlightTicketTest:70 - Book a Flight: Mercury Toursis matching
+ 2020-03-30 22:23:26,196  INFO [main] BookReturnFlightTicketTest:71 - Step 10-Enter First Name
+ 2020-03-30 22:23:26,304  INFO [main] BookReturnFlightTicketTest:74 - Step 11-Enter Last Name
+ 2020-03-30 22:23:26,379  INFO [main] BookReturnFlightTicketTest:77 - Step 12-Enter Card Number
+ 2020-03-30 22:23:26,481  INFO [main] BookReturnFlightTicketTest:80 - Step 13-Click on Secure Purchase
+ 2020-03-30 22:23:27,369  INFO [main] BookReturnFlightTicketTest:83 - Step 14Confirm if ticket is booked
+ 2020-03-30 22:23:27,411  INFO [main] BookReturnFlightTicketTest:88 - Your itinerary has been booked!
+ 2020-03-30 22:23:27,460  INFO [main] BaseClass:95 - *****************Test Case Executed***********************
+ 2020-03-30 22:23:29,571  INFO [main] BaseClass:65 - *****************Test Case Started***********************
+ 2020-03-30 22:23:35,366 DEBUG [main] ValidateCredentialsTest:16 - Home Page is Displayed
+ 2020-03-30 22:23:35,368  INFO [main] ValidateCredentialsTest:18 - Expected Tile was Find a Flight: Mercury Tours:
+ 2020-03-30 22:23:35,388  INFO [main] ValidateCredentialsTest:22 - Title is matching
+ 2020-03-30 22:23:35,451  INFO [main] BaseClass:95 - *****************Test Case Executed***********************
+ 2020-03-30 22:23:37,515  INFO [main] BaseClass:65 - *****************Test Case Started***********************
+ 2020-03-30 22:23:45,790  INFO [main] RegisterCredentials:25 - Step 1: Register user page is displayed.
+ 2020-03-30 22:23:46,147  INFO [main] RegisterCredentials:31 - Step 2:Contact information is entered successfully
+ 2020-03-30 22:23:46,558  INFO [main] RegisterCredentials:38 - Step 3:Mailing information is entered successfully
+ 2020-03-30 22:23:46,817  INFO [main] RegisterCredentials:43 - Step 4: User Inforation is entered successfully
+ 2020-03-30 22:23:48,222  INFO [main] RegisterCredentials:48 - Registered Successfully
+ 2020-03-30 22:23:48,316  INFO [main] RegisterCredentials:57 - Note: Your user name is Gauth690063.
+ 2020-03-30 22:23:48,363  INFO [main] BaseClass:95 - *****************Test Case Executed***********************
  
